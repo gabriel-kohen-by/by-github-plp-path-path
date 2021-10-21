@@ -1,10 +1,25 @@
-title: by-github-plp-path
+title: BY Github PLP
 description: The Blue Yonder way to GitHub mastery
 steps:
-  - course: githubtraining/introduction-to-github
-    description: The first step in your course
-  - link: 'https://lab.github.com'
-    title: Check out Learning Lab for more courses!
+  - course: 'https://lab.github.com/githubtraining/github-actions:-continuous-integration'
     description: >-
-      There are many more courses available on Learning Lab for you to check
-      out.
+      GitHub Actions makes it easier than ever to incorporate continuous
+      integration (CI) into your repositories.​This course will get you from
+      zero-to-CI by setting up two workflow files to automate the way you work.
+  - course: 'https://lab.github.com/githubtraining/github-actions:-using-github-script'
+    description: >-
+      GitHub Script is a special action that allows using octokit/rest.js
+      directly in a workflow file.  Over the duration of this course you will
+      learn the skills needed to begin using the GitHub Script action to
+      interact with your repository which will save you from creating full blown
+      actions that carry unnecessary overhead.
+  - description: >-
+      Learn how to write your own GitHub Docker container action! This course
+      will empower you to begin automating customized tasks unique to your
+      workflow.
+    course: 'https://lab.github.com/githubtraining/github-actions:-write-docker-container-actions'
+  - description: >-
+      GitHub Actions makes it easier than ever to incorporate continuous
+      integration (CI) into your repositories.​This course will get you from
+      zero-to-CI by setting up two workflow files to automate the way you work.
+    course: 'https://lab.github.com/githubtraining/github-actions:-continuous-integration'
